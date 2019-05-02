@@ -10,6 +10,10 @@ if (idadeUsuario <= idadeCrianca || idadeUsuario >= idadeIdoso) {
     console.log("O valor do seu ingresso é " + ingressoInteira)
 }
 
+/* fim do exercício 3 */
+
+
+/* início do exercício 4 */
 
 let sorvetes = ["creme", "chocolate", "morango", "flocos"]
 
